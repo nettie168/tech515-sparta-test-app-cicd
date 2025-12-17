@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-Check webook works on main branch
+Check webook works on dev branch
 
 ## Description
 
