@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-Check jenkins can copy a test.txt to ec2, by adding ip to known hosts
+Check jenkins can copy app to ec2 and run app
 
 ## Description
 
