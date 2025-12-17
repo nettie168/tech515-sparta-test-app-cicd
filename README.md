@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-Check dev branch has merged to main
+Check dev branch has merged to main, using SCM with jenkins
 
 ## Description
 
