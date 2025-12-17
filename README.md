@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-Check jenkins can copy app to ec2 and run app
+Check jenkins can copy app to ec2 and run app, when cd into repo/app
 
 ## Description
 
