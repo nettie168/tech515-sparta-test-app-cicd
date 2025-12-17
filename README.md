@@ -1,6 +1,6 @@
 ## Sparta Node Sample App
 
-Check webook works on dev branch
+Check dev branch has merged to main
 
 ## Description
 
